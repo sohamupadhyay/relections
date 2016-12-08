@@ -1,0 +1,7 @@
+hey there my name is soham Upadhyay
+easy access to entire history of a file makes one an eficient programmer
+pros ans cons of manually creating a commit
+allow saving multiple files in one commit?
+commads git log and git diff to view history of files
+version control makes you more confident
+have fun in git
